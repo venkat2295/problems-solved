@@ -66,4 +66,12 @@
 | [0110-balanced-binary-tree](https://github.com/venkat2295/problems-solved/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/venkat2295/problems-solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/venkat2295/problems-solved/tree/master/0543-diameter-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/venkat2295/problems-solved/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/venkat2295/problems-solved/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
