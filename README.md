@@ -48,6 +48,7 @@
 | [0110-balanced-binary-tree](https://github.com/venkat2295/problems-solved/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/venkat2295/problems-solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/venkat2295/problems-solved/tree/master/0543-diameter-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/venkat2295/problems-solved/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0110-balanced-binary-tree](https://github.com/venkat2295/problems-solved/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/venkat2295/problems-solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/venkat2295/problems-solved/tree/master/0543-diameter-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/venkat2295/problems-solved/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/venkat2295/problems-solved/tree/master/0342-power-of-four) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/venkat2295/problems-solved/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
