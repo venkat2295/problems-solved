@@ -56,10 +56,12 @@
 | [0110-balanced-binary-tree](https://github.com/venkat2295/problems-solved/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/venkat2295/problems-solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/venkat2295/problems-solved/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/venkat2295/problems-solved/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/venkat2295/problems-solved/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/venkat2295/problems-solved/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -86,4 +88,12 @@
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/venkat2295/problems-solved/tree/master/0784-insert-into-a-binary-search-tree) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/venkat2295/problems-solved/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/venkat2295/problems-solved/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
