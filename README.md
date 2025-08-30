@@ -15,6 +15,7 @@
 | [1036-rotting-oranges](https://github.com/venkat2295/problems-solved/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/venkat2295/problems-solved/tree/master/1073-number-of-enclaves) |
 | [1603-running-sum-of-1d-array](https://github.com/venkat2295/problems-solved/tree/master/1603-running-sum-of-1d-array) |
+| [2048-build-array-from-permutation](https://github.com/venkat2295/problems-solved/tree/master/2048-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,4 +125,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/venkat2295/problems-solved/tree/master/1603-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/venkat2295/problems-solved/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
