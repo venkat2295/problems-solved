@@ -11,6 +11,7 @@
 | [0213-house-robber-ii](https://github.com/venkat2295/problems-solved/tree/master/0213-house-robber-ii) |
 | [0496-next-greater-element-i](https://github.com/venkat2295/problems-solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/venkat2295/problems-solved/tree/master/0503-next-greater-element-ii) |
+| [0724-find-pivot-index](https://github.com/venkat2295/problems-solved/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/venkat2295/problems-solved/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/venkat2295/problems-solved/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/venkat2295/problems-solved/tree/master/1073-number-of-enclaves) |
@@ -124,6 +125,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/venkat2295/problems-solved/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/venkat2295/problems-solved/tree/master/1603-running-sum-of-1d-array) |
 ## Simulation
 |  |
