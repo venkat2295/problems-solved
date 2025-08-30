@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/venkat2295/problems-solved/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/venkat2295/problems-solved/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/venkat2295/problems-solved/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Tree
 |  |
@@ -81,6 +82,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/venkat2295/problems-solved/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/venkat2295/problems-solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/venkat2295/problems-solved/tree/master/0342-power-of-four) |
 ## Recursion
@@ -111,4 +113,8 @@
 | [0733-flood-fill](https://github.com/venkat2295/problems-solved/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/venkat2295/problems-solved/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/venkat2295/problems-solved/tree/master/1073-number-of-enclaves) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/venkat2295/problems-solved/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
