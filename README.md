@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/venkat2295/problems-solved/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/venkat2295/problems-solved/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/venkat2295/problems-solved/tree/master/0084-largest-rectangle-in-histogram) |
+| [0139-word-break](https://github.com/venkat2295/problems-solved/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/venkat2295/problems-solved/tree/master/0213-house-robber-ii) |
 | [0496-next-greater-element-i](https://github.com/venkat2295/problems-solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/venkat2295/problems-solved/tree/master/0503-next-greater-element-ii) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/venkat2295/problems-solved/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/venkat2295/problems-solved/tree/master/0139-word-break) |
 | [0496-next-greater-element-i](https://github.com/venkat2295/problems-solved/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -49,6 +51,7 @@
 | [0053-maximum-subarray](https://github.com/venkat2295/problems-solved/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/venkat2295/problems-solved/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/venkat2295/problems-solved/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/venkat2295/problems-solved/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/venkat2295/problems-solved/tree/master/0213-house-robber-ii) |
 ## Tree
 |  |
@@ -125,6 +128,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/venkat2295/problems-solved/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/venkat2295/problems-solved/tree/master/0139-word-break) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -138,4 +142,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/venkat2295/problems-solved/tree/master/0207-course-schedule) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/venkat2295/problems-solved/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/venkat2295/problems-solved/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
