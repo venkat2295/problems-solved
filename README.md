@@ -18,6 +18,7 @@
 | [1036-rotting-oranges](https://github.com/venkat2295/problems-solved/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/venkat2295/problems-solved/tree/master/1073-number-of-enclaves) |
 | [1603-running-sum-of-1d-array](https://github.com/venkat2295/problems-solved/tree/master/1603-running-sum-of-1d-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/venkat2295/problems-solved/tree/master/1917-maximum-average-pass-ratio) |
 | [2048-build-array-from-permutation](https://github.com/venkat2295/problems-solved/tree/master/2048-build-array-from-permutation) |
 ## Hash Table
 |  |
@@ -155,4 +156,12 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/venkat2295/problems-solved/tree/master/0139-word-break) |
+## Greedy
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/venkat2295/problems-solved/tree/master/1917-maximum-average-pass-ratio) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/venkat2295/problems-solved/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
