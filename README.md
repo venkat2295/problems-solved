@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/venkat2295/problems-solved/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/venkat2295/problems-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/venkat2295/problems-solved/tree/master/0139-word-break) |
+| [0200-number-of-islands](https://github.com/venkat2295/problems-solved/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/venkat2295/problems-solved/tree/master/0213-house-robber-ii) |
 | [0496-next-greater-element-i](https://github.com/venkat2295/problems-solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/venkat2295/problems-solved/tree/master/0503-next-greater-element-ii) |
@@ -67,6 +68,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/venkat2295/problems-solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/venkat2295/problems-solved/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/venkat2295/problems-solved/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/venkat2295/problems-solved/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/venkat2295/problems-solved/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/venkat2295/problems-solved/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/venkat2295/problems-solved/tree/master/0547-number-of-provinces) |
@@ -76,6 +78,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/venkat2295/problems-solved/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/venkat2295/problems-solved/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/venkat2295/problems-solved/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/venkat2295/problems-solved/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/venkat2295/problems-solved/tree/master/0733-flood-fill) |
@@ -111,6 +114,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/venkat2295/problems-solved/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/venkat2295/problems-solved/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/venkat2295/problems-solved/tree/master/1073-number-of-enclaves) |
 ## Graph
@@ -121,6 +125,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/venkat2295/problems-solved/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/venkat2295/problems-solved/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/venkat2295/problems-solved/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/venkat2295/problems-solved/tree/master/1073-number-of-enclaves) |
