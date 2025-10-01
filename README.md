@@ -101,6 +101,7 @@
 | [0070-climbing-stairs](https://github.com/venkat2295/problems-solved/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/venkat2295/problems-solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/venkat2295/problems-solved/tree/master/0342-power-of-four) |
+| [1642-water-bottles](https://github.com/venkat2295/problems-solved/tree/master/1642-water-bottles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/venkat2295/problems-solved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/venkat2295/problems-solved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Recursion
@@ -147,6 +148,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/venkat2295/problems-solved/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/venkat2295/problems-solved/tree/master/2048-build-array-from-permutation) |
 ## Topological Sort
 |  |
