@@ -13,6 +13,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/venkat2295/problems-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/venkat2295/problems-solved/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/venkat2295/problems-solved/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/venkat2295/problems-solved/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/venkat2295/problems-solved/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/venkat2295/problems-solved/tree/master/0213-house-robber-ii) |
 | [0496-next-greater-element-i](https://github.com/venkat2295/problems-solved/tree/master/0496-next-greater-element-i) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/venkat2295/problems-solved/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/venkat2295/problems-solved/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/venkat2295/problems-solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/venkat2295/problems-solved/tree/master/0342-power-of-four) |
 | [1642-water-bottles](https://github.com/venkat2295/problems-solved/tree/master/1642-water-bottles) |
@@ -198,6 +200,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/venkat2295/problems-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/venkat2295/problems-solved/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/venkat2295/problems-solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/venkat2295/problems-solved/tree/master/0189-rotate-array) |
 ## Counting
 |  |
 | ------- |
