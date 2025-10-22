@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/venkat2295/problems-solved/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/venkat2295/problems-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/venkat2295/problems-solved/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/venkat2295/problems-solved/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/venkat2295/problems-solved/tree/master/0084-largest-rectangle-in-histogram) |
@@ -189,5 +190,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/venkat2295/problems-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/venkat2295/problems-solved/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
