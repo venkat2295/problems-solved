@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/venkat2295/problems-solved/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/venkat2295/problems-solved/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/venkat2295/problems-solved/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/venkat2295/problems-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/venkat2295/problems-solved/tree/master/0139-word-break) |
@@ -185,4 +186,8 @@
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/venkat2295/problems-solved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/venkat2295/problems-solved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/venkat2295/problems-solved/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
