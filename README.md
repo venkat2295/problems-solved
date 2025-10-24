@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/venkat2295/problems-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/venkat2295/problems-solved/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/venkat2295/problems-solved/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/venkat2295/problems-solved/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/venkat2295/problems-solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/venkat2295/problems-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkat2295/problems-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/venkat2295/problems-solved/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/venkat2295/problems-solved/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/venkat2295/problems-solved/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkat2295/problems-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/venkat2295/problems-solved/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -175,6 +177,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/venkat2295/problems-solved/tree/master/0055-jump-game) |
 | [1917-maximum-average-pass-ratio](https://github.com/venkat2295/problems-solved/tree/master/1917-maximum-average-pass-ratio) |
 ## Heap (Priority Queue)
 |  |
