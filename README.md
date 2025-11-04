@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/venkat2295/problems-solved/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/venkat2295/problems-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/venkat2295/problems-solved/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/venkat2295/problems-solved/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/venkat2295/problems-solved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/venkat2295/problems-solved/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/venkat2295/problems-solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -61,6 +62,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/venkat2295/problems-solved/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/venkat2295/problems-solved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/venkat2295/problems-solved/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/venkat2295/problems-solved/tree/master/0070-climbing-stairs) |
@@ -177,6 +179,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/venkat2295/problems-solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/venkat2295/problems-solved/tree/master/0055-jump-game) |
 | [1917-maximum-average-pass-ratio](https://github.com/venkat2295/problems-solved/tree/master/1917-maximum-average-pass-ratio) |
 ## Heap (Priority Queue)
