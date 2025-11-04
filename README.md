@@ -19,6 +19,7 @@
 | [0189-rotate-array](https://github.com/venkat2295/problems-solved/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/venkat2295/problems-solved/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/venkat2295/problems-solved/tree/master/0213-house-robber-ii) |
+| [0274-h-index](https://github.com/venkat2295/problems-solved/tree/master/0274-h-index) |
 | [0496-next-greater-element-i](https://github.com/venkat2295/problems-solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/venkat2295/problems-solved/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/venkat2295/problems-solved/tree/master/0724-find-pivot-index) |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/venkat2295/problems-solved/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/venkat2295/problems-solved/tree/master/0274-h-index) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/venkat2295/problems-solved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/venkat2295/problems-solved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
@@ -213,4 +215,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/venkat2295/problems-solved/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/venkat2295/problems-solved/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
