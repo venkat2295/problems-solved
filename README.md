@@ -19,6 +19,7 @@
 | [0189-rotate-array](https://github.com/venkat2295/problems-solved/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/venkat2295/problems-solved/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/venkat2295/problems-solved/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/venkat2295/problems-solved/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/venkat2295/problems-solved/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/venkat2295/problems-solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/venkat2295/problems-solved/tree/master/0496-next-greater-element-i) |
@@ -167,6 +168,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/venkat2295/problems-solved/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/venkat2295/problems-solved/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/venkat2295/problems-solved/tree/master/1603-running-sum-of-1d-array) |
 ## Simulation
