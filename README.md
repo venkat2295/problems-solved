@@ -22,6 +22,7 @@
 | [0213-house-robber-ii](https://github.com/venkat2295/problems-solved/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/venkat2295/problems-solved/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/venkat2295/problems-solved/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/venkat2295/problems-solved/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/venkat2295/problems-solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/venkat2295/problems-solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/venkat2295/problems-solved/tree/master/0503-next-greater-element-ii) |
@@ -41,6 +42,7 @@
 | [0001-two-sum](https://github.com/venkat2295/problems-solved/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/venkat2295/problems-solved/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/venkat2295/problems-solved/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/venkat2295/problems-solved/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/venkat2295/problems-solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/venkat2295/problems-solved/tree/master/0496-next-greater-element-i) |
 ## Stack
@@ -66,6 +68,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/venkat2295/problems-solved/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/venkat2295/problems-solved/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/venkat2295/problems-solved/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,6 +206,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/venkat2295/problems-solved/tree/master/0347-top-k-frequent-elements) |
 | [1917-maximum-average-pass-ratio](https://github.com/venkat2295/problems-solved/tree/master/1917-maximum-average-pass-ratio) |
 ## Geometry
 |  |
@@ -214,6 +218,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/venkat2295/problems-solved/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/venkat2295/problems-solved/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/venkat2295/problems-solved/tree/master/0347-top-k-frequent-elements) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/venkat2295/problems-solved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/venkat2295/problems-solved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
@@ -232,6 +237,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/venkat2295/problems-solved/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/venkat2295/problems-solved/tree/master/0347-top-k-frequent-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -244,4 +250,12 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/venkat2295/problems-solved/tree/master/0643-maximum-average-subarray-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/venkat2295/problems-solved/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/venkat2295/problems-solved/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
