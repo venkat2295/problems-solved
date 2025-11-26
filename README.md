@@ -25,6 +25,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/venkat2295/problems-solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/venkat2295/problems-solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/venkat2295/problems-solved/tree/master/0503-next-greater-element-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/venkat2295/problems-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/venkat2295/problems-solved/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/venkat2295/problems-solved/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/venkat2295/problems-solved/tree/master/1036-rotting-oranges) |
@@ -236,4 +237,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/venkat2295/problems-solved/tree/master/0380-insert-delete-getrandom-o1) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/venkat2295/problems-solved/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
