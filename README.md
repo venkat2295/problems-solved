@@ -34,6 +34,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/venkat2295/problems-solved/tree/master/1603-running-sum-of-1d-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/venkat2295/problems-solved/tree/master/1917-maximum-average-pass-ratio) |
 | [2048-build-array-from-permutation](https://github.com/venkat2295/problems-solved/tree/master/2048-build-array-from-permutation) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/venkat2295/problems-solved/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/venkat2295/problems-solved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/venkat2295/problems-solved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Hash Table
@@ -150,6 +151,7 @@
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/venkat2295/problems-solved/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/venkat2295/problems-solved/tree/master/0784-insert-into-a-binary-search-tree) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/venkat2295/problems-solved/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Union Find
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [0055-jump-game](https://github.com/venkat2295/problems-solved/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/venkat2295/problems-solved/tree/master/0134-gas-station) |
 | [1917-maximum-average-pass-ratio](https://github.com/venkat2295/problems-solved/tree/master/1917-maximum-average-pass-ratio) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/venkat2295/problems-solved/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -219,6 +222,7 @@
 | [0169-majority-element](https://github.com/venkat2295/problems-solved/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/venkat2295/problems-solved/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/venkat2295/problems-solved/tree/master/0347-top-k-frequent-elements) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/venkat2295/problems-solved/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/venkat2295/problems-solved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/venkat2295/problems-solved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
