@@ -37,6 +37,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/venkat2295/problems-solved/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/venkat2295/problems-solved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/venkat2295/problems-solved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/venkat2295/problems-solved/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0347-top-k-frequent-elements](https://github.com/venkat2295/problems-solved/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/venkat2295/problems-solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/venkat2295/problems-solved/tree/master/0496-next-greater-element-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/venkat2295/problems-solved/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Stack
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [1642-water-bottles](https://github.com/venkat2295/problems-solved/tree/master/1642-water-bottles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/venkat2295/problems-solved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/venkat2295/problems-solved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/venkat2295/problems-solved/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -216,6 +219,7 @@
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/venkat2295/problems-solved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/venkat2295/problems-solved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/venkat2295/problems-solved/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Sorting
 |  |
 | ------- |
