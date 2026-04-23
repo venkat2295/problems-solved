@@ -27,6 +27,7 @@
 | [0496-next-greater-element-i](https://github.com/venkat2295/problems-solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/venkat2295/problems-solved/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/venkat2295/problems-solved/tree/master/0643-maximum-average-subarray-i) |
+| [0706-design-hashmap](https://github.com/venkat2295/problems-solved/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/venkat2295/problems-solved/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/venkat2295/problems-solved/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/venkat2295/problems-solved/tree/master/1036-rotting-oranges) |
@@ -47,6 +48,7 @@
 | [0347-top-k-frequent-elements](https://github.com/venkat2295/problems-solved/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/venkat2295/problems-solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/venkat2295/problems-solved/tree/master/0496-next-greater-element-i) |
+| [0706-design-hashmap](https://github.com/venkat2295/problems-solved/tree/master/0706-design-hashmap) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/venkat2295/problems-solved/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Stack
 |  |
@@ -66,6 +68,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/venkat2295/problems-solved/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/venkat2295/problems-solved/tree/master/0380-insert-delete-getrandom-o1) |
+| [0706-design-hashmap](https://github.com/venkat2295/problems-solved/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -266,4 +269,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/venkat2295/problems-solved/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/venkat2295/problems-solved/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/venkat2295/problems-solved/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
